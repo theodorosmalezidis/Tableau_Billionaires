@@ -21,11 +21,11 @@ My engagement with the market and investments was the initial driving force behi
 🔗 [Tableau Link](https://public.tableau.com/app/profile/theodoros.malezidis7413/viz/BillionairesDashboard_17390158115780/BillionairesDashboardWealthView)
 
 
-- WealthView
+- WealthView Dashboard
 
 ![Wealthview Dashboard](images/Billionaires_WealthView.jpg)
 
-- Details
+- Details Dashboard
 
 ![Details Dashboard](images/Billionaires_Details.jpg)
 
