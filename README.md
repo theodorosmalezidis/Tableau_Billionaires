@@ -23,10 +23,10 @@ My engagement with the market and investments was the initial driving force behi
 
 - WealthView
 
-![Wealthview Dashboard](images\Billionaires_WealthView.jpg)
+![Wealthview Dashboard](images/Billionaires_WealthView.jpg)
 
 - Details
 
-![Details Dashboard](images\Billionaires_Details.jpg)
+![Details Dashboard](images/Billionaires_Details.jpg)
 
 
